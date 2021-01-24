@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Dog = (props) => {
-  console.log(props)
+  //console.log(props)
   return (
     <div className='dog-wrapper'>
       <div className='dog'>
@@ -12,7 +12,7 @@ const Dog = (props) => {
         <span className='dog-superpower'>{props.props.superpower}</span>
       </div>
       
-        <img class="dog-pic" src={props.props.image}></img>
+        <img className="dog-pic" src={props.props.image}></img>
      
     </div>
   )
