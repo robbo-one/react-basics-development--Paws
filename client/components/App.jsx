@@ -8,9 +8,9 @@ const App = () => (
     <Subtitle text='He like cheese.' />
     <Dog name='Desdemona' breed='Bulldog' superpower='Heat vision' />
     <Subtitle text='He like cheese.' />
-    <Dog name='Chloe' breed='Jack-russel schnauzer' superpower='Sausage detection'/>
+    <Dog name='Chloe' breed='Scottie' superpower='Sausage detection'/>
     <Subtitle text='She dont like cheese.' />
-    <Dog name='Naga' breed='Tabby' superpower='Chonker' />
+    <Dog name='Naga' breed='Dachshund' superpower='Chonker' />
   </div>
 )
 
