@@ -30,7 +30,7 @@ h2 {
   height: 5rem;
   -webkit-animation:spin 4s linear infinite;
   -moz-animation:spin 4s linear infinite;
-  animation:spin 4s linear infinite;
+  animation:spin  4s linear infinite;
   opacity: 0.5;
 }
 

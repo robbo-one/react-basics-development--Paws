@@ -9,7 +9,7 @@ import React from 'react'
           <span className='dog-breed'>{props.breed}</span>
         </div>
         <span className='dog-superpower'>{props.superpower}</span>
-        <img className='dog-image' src={props.image}/>
+        <img className='dog-image spinner' src={props.image}/>
       </div>
     </div>
   )
